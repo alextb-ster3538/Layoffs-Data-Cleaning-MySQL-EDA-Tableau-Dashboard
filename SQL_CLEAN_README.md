@@ -21,6 +21,7 @@ It demonstrates an end‑to‑end analytics workflow: **SQL data cleaning → SQ
 - **/tableau/**
   - Dashboard files & screenshots (coming soon)
 - **SQL_CLEAN_README.md** — project overview and documentation
+- **EDA_README.md** - EDA in MySQL
  
 
 ---
