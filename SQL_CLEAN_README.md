@@ -20,7 +20,7 @@ It demonstrates an end‑to‑end analytics workflow: **SQL data cleaning → SQ
   - `layoffs_clean.csv` — final cleaned dataset
 - **/tableau/**
   - Dashboard files & screenshots (coming soon)
-- **README.md** — project overview and documentation
+- **SQL_CLEAN_README.md** — project overview and documentation
  
 
 ---
