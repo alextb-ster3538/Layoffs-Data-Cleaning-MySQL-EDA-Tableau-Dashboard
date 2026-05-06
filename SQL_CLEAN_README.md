@@ -11,17 +11,35 @@ It demonstrates an end‑to‑end analytics workflow: **SQL data cleaning → SQ
 
 ---
 
-## 📁 Project Structure
-- **/sql/**
-  - `cleaning_pipeline.sql` — full SQL cleaning workflow
-  - `eda_queries.sql` — exploratory analysis queries (coming soon)
-- **/data/**
-  - `layoffs_raw.csv` — original dataset (as provided)
-  - `layoffs_clean.csv` — final cleaned dataset
-- **/tableau/**
-  - Dashboard files & screenshots (coming soon)
-- **SQL_CLEAN_README.md** — project overview and documentation
-- **EDA_README.md** - EDA in MySQL
+## 📁 Layoffs-Data-Cleaning-MySQL-EDA-Tableau-Dashboard
+
+Layoffs-Data-Cleaning-MySQL-EDA-Tableau-Dashboard/
+│
+├── data/
+│     ├── layoffs_raw.csv
+│     └── layoffs_clean.csv
+│
+├── sql/
+│     └── cleaning_pipeline.sql
+│
+├── python/
+│     ├── eda_notebook.ipynb
+│     └── eda_scripts.py          # optional
+│
+├── tableau/
+│     └── layoffs_dashboard.twbx  # or .twb / .hyper
+│
+├── images/
+│     └── banner.png
+│
+├── README.md
+├── SQL_CLEAN_README.md
+├── EDA_README.md
+└── LICENSE
+
+
+
+
  
 
 ---
