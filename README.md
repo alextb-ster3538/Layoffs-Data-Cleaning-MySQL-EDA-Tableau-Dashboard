@@ -17,7 +17,7 @@ It demonstrates an end‑to‑end analytics workflow: **SQL data cleaning → SQ
   - `eda_queries.sql` — exploratory analysis queries (coming soon)
 - **/data/**
   - `layoffs_raw.csv` — original dataset (as provided)
-  - `layoffs_cleaned.csv` — final cleaned dataset
+  - `layoffs_clean.csv` — final cleaned dataset
 - **/tableau/**
   - Dashboard files & screenshots (coming soon)
 - **README.md** — project overview and documentation
@@ -77,6 +77,7 @@ It demonstrates an end‑to‑end analytics workflow: **SQL data cleaning → SQ
 ## 🧩 What I Did Beyond the Tutorial
 While this project was inspired by Alex The Analyst’s SQL data cleaning and EDA tutorials, I did not follow the walkthrough word-for-word. I expanded the project by making several independent improvements, including:
 
+- Converting percentage and numeric fields from TEXT to DECIMAL to ensure proper sorting, filtering, and aggregation
 - Removing mojibake and fixing additional encoding issues not covered in the tutorial  
 - Updating incorrect country values based on the location field  
 - Applying stricter standardization rules for industries and locations  
