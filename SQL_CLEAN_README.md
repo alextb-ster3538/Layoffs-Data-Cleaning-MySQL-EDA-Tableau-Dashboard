@@ -11,31 +11,35 @@ It demonstrates an end‑to‑end analytics workflow: **SQL data cleaning → SQ
 
 ---
 
-## 📁 Layoffs-Data-Cleaning-MySQL-EDA-Tableau-Dashboard
-
-Layoffs-Data-Cleaning-MySQL-EDA-Tableau-Dashboard/
+## 📁 Layoffs-Data-Cleaning-MySQL-EDA-Tableau-Dashboard /
+│
 │
 ├── data/
-│     ├── layoffs_raw.csv
-│     └── layoffs_clean.csv
+│       layoffs_raw.csv
+│       layoffs_clean.csv
+│
 │
 ├── sql/
-│     └── cleaning_pipeline.sql
+│       cleaning_pipeline.sql
+│
 │
 ├── python/
-│     ├── eda_notebook.ipynb
-│     └── eda_scripts.py          # optional
+│       eda_notebook.ipynb
+│       eda_scripts.py
+│
 │
 ├── tableau/
-│     └── layoffs_dashboard.twbx  # or .twb / .hyper
+│       layoffs_dashboard.twbx
+│
 │
 ├── images/
-│     └── banner.png
+│       banner.png
 │
-├── README.md
-├── SQL_CLEAN_README.md
-├── EDA_README.md
-└── LICENSE
+│
+README.md
+SQL_CLEAN_README.md
+EDA_README.md
+LICENSE
 
 
 
