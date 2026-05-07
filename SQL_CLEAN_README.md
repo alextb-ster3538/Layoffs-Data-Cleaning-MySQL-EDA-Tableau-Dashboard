@@ -141,7 +141,7 @@ Screenshots and workbook files will be added soon.
 
 ## ✔️ Project Status
 - **Data cleaning:** Complete  
-- **EDA (SQL):** In progress  
+- **EDA (SQL and Python):** Complete  
 - **Tableau dashboard:** Coming soon  
 
 ---
