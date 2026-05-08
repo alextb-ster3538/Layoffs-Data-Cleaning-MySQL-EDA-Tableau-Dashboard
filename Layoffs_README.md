@@ -5,7 +5,7 @@
 
 ---
 
-This project analyzes global tech layoffs using a full end‑to‑end analytics workflow: 
+This project analyzes global layoffs using a full end‑to‑end analytics workflow: 
 MySQL data cleaning → SQL & Python EDA → Tableau visualization. 
 The goal was to transform a messy real‑world dataset into a clean, analysis‑ready table, uncover meaningful trends, and present insights through interactive visualizations. This project demonstrates practical data cleaning, analytical thinking, and dashboard‑building skills aligned with real business use cases.
 
