@@ -92,7 +92,7 @@ EDA includes:
 - Time‑series trends
 - Correlation and distribution analysis (Python)
 
-* This section is implemented in eda_queries.sql and eda_python.ipynb.
+This section is implemented in eda_queries.sql and eda_python.ipynb.
 
  ## 🔎 **Key Insights (EDA):**
   
@@ -108,7 +108,7 @@ The dashboard visualizes:
 - Geographic distribution
 - YoY change
 
-* Screenshots and workbook files will be added in the Tableau folder.
+Screenshots and workbook files will be added in the Tableau folder.
 
 ---
 
