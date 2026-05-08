@@ -1,10 +1,13 @@
 
 
-<img width="1512" height="460" alt="image" src="https://github.com/user-attachments/assets/4f67c46f-cb92-43d2-a36e-56643b3cbdc6" />
+<img width="1025" height="310" alt="image" src="https://github.com/user-attachments/assets/999eeaca-682e-4599-bce6-6ea28f68ed99" />
+
 
 ---
 
-This project focuses on cleaning, analyzing, and visualizing a real-world layoffs dataset. It demonstrates an end‑to‑end analytics workflow: **SQL data cleaning → SQL EDA → Tableau dashboard**.
+This project analyzes global tech layoffs using a full end‑to‑end analytics workflow: 
+MySQL data cleaning → SQL & Python EDA → Tableau visualization. 
+The goal was to transform a messy real‑world dataset into a clean, analysis‑ready table, uncover meaningful trends, and present insights through interactive visualizations. This project demonstrates practical data cleaning, analytical thinking, and dashboard‑building skills aligned with real business use cases.
 
 ---
 
@@ -91,6 +94,13 @@ EDA includes:
 
 * This section is implemented in eda_queries.sql and eda_python.ipynb.
 
+ ## 🔎 **Key Insights (EDA):**
+  
+- Layoffs peaked sharply in 2022–2023, driven primarily by over‑hiring during the pandemic and macroeconomic tightening.
+- Consumer, Retail, and Transportation industries showed the highest layoff counts, while sectors like Healthcare and Energy    remained relatively stable.
+- The United States accounted for the majority of recorded layoffs, with significant contributions from large tech firms and    late‑stage startups.
+- Companies in later funding stages (Series D+, Post‑IPO) showed higher layoff volumes, suggesting cost‑cutting pressures       increase as organizations scale.
+
 # 📊 **Tableau Dashboard**
 The dashboard visualizes:
 - Layoffs over time
@@ -99,11 +109,6 @@ The dashboard visualizes:
 - YoY change
 
 * Screenshots and workbook files will be added in the Tableau folder.
-
-## ✔️ Project Status
-- **Data cleaning:** Complete  
-- **EDA (SQL and Python):** Complete  
-- **Tableau dashboard:** Complete 
 
 ---
 
