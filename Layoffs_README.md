@@ -14,7 +14,8 @@ The goal was to transform a messy real‑world dataset into a clean, analysis‑
 ## 🎯 Objectives
 - Build a clean, analysis‑ready dataset using MySQL  
 - Apply SQL best practices for data quality and transformation  
-- Perform exploratory data analysis directly in SQL  
+- Perform exploratory data analysis directly in SQL
+- Use Python for statistical EDA, outlier detection, and distribution analysis  
 - Create a Tableau dashboard to visualize key trends  
 - Demonstrate real‑world analytics skills for portfolio development  
 
